@@ -1,3 +1,7 @@
 # Merge
 Merge Conflicts Practice
-second-branch
+ first-branch
+first-branch
+
+
+ main
